@@ -174,7 +174,7 @@ To debug the `nrf52840 dongle` using the `J-Link EDU Mini` debugger, you will ne
     ```
 
     The `armToolchainPath` should point to the location of the `arm-none-eabi` toolchain on your computer. The `executable` should point to the `.elf` file of the project you want to debug. The `serverpath` should point to the `JLinkGDBServerCL.exe` file of the `J-Link` software.
-7. If you haven't already, build you application with the optimization level `-Og` to enable debugging symbols in the `build\zephyr\zephyr.elf` file.
+7. If you haven't already, build your application with the optimization level `-Og` to enable debugging symbols in the `build\zephyr\zephyr.elf` file.
 8. Add a breakpoint to your code and start the debugging process by clicking on the `Run and Debug` icon in VS Code. The program should stop at the breakpoint and you can now debug your application.
 
 > Note: Please do not accidentally disconnect the `nrf52840 dongle` or the `J-Link EDU Mini` debugger while debugging. This could brick the `nrf52840 dongle` and you will have to restore its functionality afterward to use it again. Always stop the debugging process before disconnecting the devices.
