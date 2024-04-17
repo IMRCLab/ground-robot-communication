@@ -204,7 +204,7 @@ To debug the `nrf52840 dongle` using the `J-Link EDU Mini` debugger, you will ne
 
 ## Helpful Links
 
-1. [nrf52840 dongle not showing up in connected devices tree of VS Code](https://devzone.nordicsemi.com/f/nordic-q-a/102916/nrf52840-dongle-isnt-showing-up-in-the-connected-devices-section-on-vs-code)
-2. [nrf52840 dongle programming tutorial](https://devzone.nordicsemi.com/guides/short-range-guides/b/getting-started/posts/nrf52840-dongle-programming-tutorial)
-3. [J-Link IDE support](https://www.segger.com/products/debug-probes/j-link/technology/ides/overview-of-supported-ides/)
-4. [nrf52840 dongle bricked](https://devzone.nordicsemi.com/f/nordic-q-a/64921/nrf52840-dongle-bricked-after-programming)
+- [nrf52840 dongle not showing up in connected devices tree of VS Code](https://devzone.nordicsemi.com/f/nordic-q-a/102916/nrf52840-dongle-isnt-showing-up-in-the-connected-devices-section-on-vs-code)
+- [nrf52840 dongle programming tutorial](https://devzone.nordicsemi.com/guides/short-range-guides/b/getting-started/posts/nrf52840-dongle-programming-tutorial)
+- [J-Link IDE support](https://www.segger.com/products/debug-probes/j-link/technology/ides/overview-of-supported-ides/)
+- [nrf52840 dongle bricked](https://devzone.nordicsemi.com/f/nordic-q-a/64921/nrf52840-dongle-bricked-after-programming)
